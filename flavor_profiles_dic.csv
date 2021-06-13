@@ -1,4 +1,3 @@
-0,
 acetoin,acetone
 acidic,acid
 alcoholic,alcohol
@@ -44,9 +43,9 @@ cedarwood,cedar
 cheesy,cheese
 cherry-pit,cherry
 chicken coop,chicken
-cinnamate, cinnamic
+cinnamate,cinnamic
 citral,citric
-citronellol, citronella
+citronellol,citronella
 citrus,citric
 citrus peel,citric
 clean cloth,clean
@@ -56,12 +55,12 @@ cooked meat,meat
 cooked potato,potato
 cotton candy,candy
 coumarinic,coumarin
-creamy, cream
+creamy,cream
 cucumber seed,cucumber
 cucumber skin,cucumber
 cuminseed,cumin
 cut grass,grass
-dairy, milk
+dairy,milk
 dusty,dust
 earthy,earth
 estery,ester
@@ -77,19 +76,19 @@ green,leaf
 green bean,bean
 green leaf,leaf
 guaiacol,guaiacwood
-hawthorne, hawthorn
-heliotropin, heliotrope
-herb, herbal
-herbaceous, herbal
+hawthorne,hawthorn
+heliotropin,heliotrope
+herb,herbal
+herbaceous,herbal
 honeydew,honey
-hot milk, milk
-humus, hummus
-jam preserves, jam
-jammy, jam
-jasmine, jasmin
-ketonic, ketone
-lactonic, lactone
-lamb, leaf
+hot milk,milk
+humus,hummus
+jam preserves,jam
+jammy,jam
+jasmine,jam
+ketonic,ketone
+lactonic,lactone
+lamb,leaf
 laundered cloths,laundry
 leafy,leaf
 leathery, leather
@@ -183,7 +182,7 @@ tropica, tropical
 unripe banana,banana
 unripe fruit,fruit
 vanilla, vanilla
-vanillin, vanilla
+vanillin,vanilla
 vegetable skin,vegetable
 very faint,faint
 very mild,mild
@@ -195,4 +194,5 @@ waxy, wax
 wine-lee, wine
 wine_like, wine
 winey, wine
-woody, wood
+woody,wood
+yeasty,yeast
