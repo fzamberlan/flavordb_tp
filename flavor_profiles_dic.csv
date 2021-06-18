@@ -77,8 +77,8 @@ green leaf,leaf
 guaiacol,guaiacwood
 hawthorne,hawthorn
 heliotropin,heliotrope
-herbal,herb
-herbaceous,herb
+herbal,leaf
+herbaceous,leaf
 honeydew,honey
 hot milk,milk
 humus,hummus
@@ -231,3 +231,4 @@ dust,earth
 dusty,earth
 dirty,earth
 bready,bread
+herb,leaf
