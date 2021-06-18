@@ -61,7 +61,6 @@ cucumber skin,cucumber
 cuminseed,cumin
 cut grass,grass
 dairy,milk
-dusty,dust
 earthy,earth
 estery,ester
 ethereal,ether
@@ -189,10 +188,51 @@ very mild,mild
 very slight,slight
 very strong,strong
 very sweet,sweet
-violet, violet-leaf
 waxy, wax
 wine-lee, wine
 wine_like, wine
 winey, wine
 woody,wood
 yeasty,yeast
+extremely sweet,sweet
+rotting,rotten
+salmon,fish
+rose acetate,rose
+rosy,rose
+roasteded peanuts,peanut
+soil,earth
+slightly fruit,fruit
+cooked meat juice,meat
+cooked vegetable,vegetable
+cooling,cool
+sawdust,wood
+petroleum, naphtha
+moscato,wine
+plant,leaf
+roasteded almonds,almond
+hark yolk,egg
+ripe apple,rotten
+ricotta,cheese
+ripe,rotten
+leaf bean,leaf
+leaf leaf,leaf
+leaf pepper,leaf
+leaf tea,leaf
+leaves,leaf
+lemongrass,lemon
+tomato leaf,leaf
+violet,leaf
+violet-leaf,leaf
+violet-leaf-leaf,leaf
+vine,wine
+black tea,tea
+overripe fruit,rotten
+apple peel,apple
+citric peel,citric
+roasteded nut,nut
+roasteded nuts,nut
+bois de rose,rose
+dust,earth
+dusty,earth
+dirty,earth
+bready,bread
