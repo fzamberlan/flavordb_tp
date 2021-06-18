@@ -77,8 +77,8 @@ green leaf,leaf
 guaiacol,guaiacwood
 hawthorne,hawthorn
 heliotropin,heliotrope
-herb,herbal
-herbaceous,herbal
+herbal,herb
+herbaceous,herb
 honeydew,honey
 hot milk,milk
 humus,hummus
@@ -100,20 +100,19 @@ meaty, meat
 medicinal, medical
 medicine, medical
 melon rind, melon
-mentholic, menthol
+mentholic,mint
 metallic, metal
 mild cooling, mild
 mildew, mold
 milk, milk
 milky, milk
-mint, menthol
-minty, menthol
+ menthol,mint
+minty,mint
 moldy, mold
 mossy, moss
 moth ball, mothball
 mouldy, mold
 musky, musk
-must, mustard
 myrcene, myrrh
 naphthalic, naphtha
 naphthelene, naphtha
@@ -134,10 +133,10 @@ pear skin, pear
 phenolic, phenol
 pine needle, pine
 plum skin,plum
-roast, roasted
+roasted,roast
 roast beef,meat
 roasted almonds,almond
-roasted in sugar syrup, roasted
+roasted in sugar syrup,roast
 roasted meat,meat
 roasted nut,nut
 roasted nuts,nut
@@ -198,7 +197,7 @@ rotting,rotten
 salmon,fish
 rose acetate,rose
 rosy,rose
-roasteded peanuts,peanut
+roasted peanuts,peanut
 soil,earth
 slightly fruit,fruit
 cooked meat juice,meat
@@ -221,15 +220,12 @@ leaves,leaf
 lemongrass,lemon
 tomato leaf,leaf
 violet,leaf
-violet-leaf,leaf
-violet-leaf-leaf,leaf
+violet-leaf,violet
 vine,wine
 black tea,tea
 overripe fruit,rotten
 apple peel,apple
 citric peel,citric
-roasteded nut,nut
-roasteded nuts,nut
 bois de rose,rose
 dust,earth
 dusty,earth
